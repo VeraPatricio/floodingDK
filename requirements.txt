@@ -1,0 +1,12 @@
+gdal>=1.9.0
+matplotlib>=1.18.4
+seaborn>=0.10.1
+re>=2.2.1
+glob
+geopy>=1.22.0
+rasterio>=1.1.4
+owslib>=0.19.2
+tqdm>=4.46.0
+folium>=0.11.0
+numpy>=1.8.1
+pandas>=0.14.1
