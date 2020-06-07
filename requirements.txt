@@ -1,7 +1,6 @@
 matplotlib>=1.18.4
 seaborn>=0.10.1
 regex>=2.2.1
-glob
 geopy>=1.22.0
 rasterio>=1.1.4
 owslib>=0.19.2
